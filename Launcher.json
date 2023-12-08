@@ -1,5 +1,5 @@
 {   
-	"Version": "1.05",
+	"Version": "1.06",
 	"FileList":"http://168.194.43.150/Update/filelist.json",
 	"DownloadUpdate": "http://168.194.43.150/ClientGame/",		
 	"News": [
